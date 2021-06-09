@@ -1,0 +1,42 @@
+{
+	"name": "Emergency Services Lawyers",
+	"lang": "en-AU",
+	"short_name": "ESL",
+		"theme_color": "#252525",
+	"background_color": "#e8e8e8",
+	"display": "minimal-ui",
+	"scope": "/",
+	"start_url": "/?utm_source=web_app_manifest",
+	"icons": [
+	  {
+		"src": "/static/icons/favicon-128.png",
+		"sizes": "128x128",
+		"type": "image/png"
+	  },
+	  {
+		"src": "/static/icons/favicon-152.png",
+		"sizes": "152x152",
+		"type": "image/png"
+	  },
+	  {
+		"src": "/static/icons/favicon-167.png",
+		"sizes": "167x167",
+		"type": "image/png"
+	  },
+	  {
+		"src": "/static/icons/favicon-180.png",
+		"sizes": "180x180",
+		"type": "image/png"
+	  },
+	  {
+		"src": "/static/icons/favicon-192.png",
+		"sizes": "192x192",
+		"type": "image/png"
+	  },
+	  {
+		"src": "/static/icons/favicon-196.png",
+		"sizes": "196x196",
+		"type": "image/png"
+	  }
+	]
+  }

@@ -1,0 +1,27 @@
+/********************************************
+	BREAKPOINT WIDTHS
+********************************************/
+/********************************************
+	FONTS
+********************************************/
+* {
+  font-family: "basic-sans", "Roboto", sans-serif;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+  cursor: pointer;
+}
+p{
+	font-size: 1em;
+}
+html {
+  scroll-behavior: smooth;
+}
+/********************************************
+	COLOURS
+********************************************/
+option{
+  cursor:pointer;
+}
